@@ -1,3 +1,3 @@
 ## NWDC Web Personal
 
-note : 💻compatible only in pc
+note : 💻compatible only on pc
